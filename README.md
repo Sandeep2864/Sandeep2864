@@ -1,6 +1,6 @@
 Welcome to My GitHub Portfolio! 🎉
 Hello there! 👋
-![image](https://github.com/user-attachments/assets/4e0071ac-51fd-40dc-b153-ea98961b719a)
+![Your Skills GIF](https://github.com/user-attachments/assets/4e0071ac-51fd-40dc-b153-ea98961b719a)
 
 
 I'm a passionate Full Stack Developer with a strong background in AI, Data Structures & Algorithms (DSA), Computer Science, and Java Development. I enjoy building scalable, efficient, and innovative solutions that solve real-world problems. This portfolio showcases some of my best projects and contributions across these fields.
