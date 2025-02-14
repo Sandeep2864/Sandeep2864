@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Sandeep, and I'm a Full Stack Developer, from India.</h2>
-<div align="left" justify-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep2864&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep2864&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="left">
@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 # Welcome to My GitHub Portfolio! 🎉
 Hello there! 👋
 
@@ -42,13 +38,12 @@ Hello there! 👋
 I'm a passionate Full Stack Developer with a strong background in AI, Data Structures & Algorithms (DSA), Computer Science, and Java Development. I enjoy building scalable, efficient, and innovative solutions that solve real-world problems. This portfolio showcases some of my best projects and contributions across these fields.
 
 ## 🚀 About Me
-<i class="fas fa-brain fa-3x"></i> I'm always learning and evolving—currently diving deep into AI, Machine Learning, and Cloud Computing.
+- <i class="fas fa-brain fa-3x"></i> I'm always learning and evolving—currently diving deep into AI, Machine Learning, and Cloud Computing.
+- <i class="fas fa-code fa-3x"></i> Proficient in Java, JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, and MongoDB, among others.
+- <i class="fas fa-project-diagram fa-3x"></i> I have a deep understanding of Data Structures, Algorithms, and System Design, which I apply to build optimized solutions.
 
-<i class="fas fa-code fa-3x"></i> Proficient in Java, JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, and MongoDB, among others.
-
-<i class="fas fa-project-diagram fa-3x"></i> I have a deep understanding of Data Structures, Algorithms, and System Design, which I apply to build optimized solutions.
 ## 📂 Projects
-<i class="fas fa-project-diagram fa-3x"></i> Here’s a glimpse of some of the key projects I have worked on:
+Here’s a glimpse of some of the key projects I have worked on:
 
 **Full Stack Web Application**  
 Description: A web app that does XYZ. Built using React for the frontend, Node.js and Express for the backend, and MongoDB for the database.  
@@ -71,63 +66,33 @@ Description: An AI-powered chatbot for customer support built with Python and Te
 🔗 [Link to Project](#)
 
 ## 🛠️ Technologies & Tools
-<i class="fas fa-tools fa-3x"></i> I have worked with a wide range of tools and technologies, including but not limited to:
+I have worked with a wide range of tools and technologies, including but not limited to:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>Frontend</strong><br>
-    React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>Backend</strong><br>
-    Node.js, Express.js, Java, Spring Boot
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>Database</strong><br>
-    MongoDB, MySQL, PostgreSQL
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>AI/ML</strong><br>
-    Python, TensorFlow, Keras, Scikit-learn, Pandas
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>Version Control</strong><br>
-    Git, GitHub, GitLab
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>DevOps</strong><br>
-    Docker, Kubernetes, Jenkins, AWS
-  </div>
-
-  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
-    <strong>Tools</strong><br>
-    Postman, JIRA, VS Code, IntelliJ IDEA
-  </div>
-</div>
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Backend**: Node.js, Express.js, Java, Spring Boot
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **AI/ML**: Python, TensorFlow, Keras, Scikit-learn, Pandas
+- **Version Control**: Git, GitHub, GitLab
+- **DevOps**: Docker, Kubernetes, Jenkins, AWS
+- **Tools**: Postman, JIRA, VS Code, IntelliJ IDEA
 
 ## 🔍 Problem Solving & Algorithms
-<i class="fas fa-brain fa-3x"></i> I love solving problems, whether they are related to coding challenges or system design. Below are some of the areas I focus on:
+I love solving problems, whether they are related to coding challenges or system design. Below are some of the areas I focus on:
 
 - **Data Structures**: Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Hash Tables
 - **Algorithms**: Sorting (Quick Sort, Merge Sort, Bubble Sort), Searching (Binary Search), Dynamic Programming, Backtracking, Greedy Algorithms
 - **System Design**: Building scalable systems, designing APIs, microservices, database optimization
 
 ## 📖 Learning & Growth
-<i class="fas fa-book fa-3x"></i> As a Computer Science enthusiast, I’m committed to lifelong learning. Currently, I am diving into:
+As a Computer Science enthusiast, I’m committed to lifelong learning. Currently, I am diving into:
 
 - **AI & Deep Learning**: Neural Networks, Natural Language Processing (NLP), Computer Vision
 - **Cloud Platforms**: AWS, Google Cloud, Azure
 - **Advanced Java**: Spring Boot, Hibernate, Microservices architecture
 
 ## 🔗 Connect With Me
-<i class="fas fa-envelope fa-3x"></i> Feel free to reach out to me via:
+Feel free to reach out to me via:
 
 - 📧 Email: 2200030956cseh@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/contactseelamsandeep/)
 - 🌐 Portfolio: Your Personal Website
-
