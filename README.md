@@ -35,29 +35,44 @@ Description: An AI-powered chatbot for customer support built with Python and Te
 *Tech Stack*: Python, TensorFlow, Natural Language Processing (NLP).  
 [Link to Project](#)
 
-## 🛠️ Technologies & Tools
-<i class="fas fa-tools fa-3x"></i> I have worked with a wide range of tools and technologies, including but not limited to:
+## 🛠️ <span style="color: blue;">Technologies & Tools</span>
 
-### Frontend
-- React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>Frontend</strong><br>
+    React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+  </div>
 
-### Backend
-- Node.js, Express.js, Java, Spring Boot
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>Backend</strong><br>
+    Node.js, Express.js, Java, Spring Boot
+  </div>
 
-### Database
-- MongoDB, MySQL, PostgreSQL
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>Database</strong><br>
+    MongoDB, MySQL, PostgreSQL
+  </div>
 
-### AI/ML
-- Python, TensorFlow, Keras, Scikit-learn, Pandas
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>AI/ML</strong><br>
+    Python, TensorFlow, Keras, Scikit-learn, Pandas
+  </div>
 
-### Version Control
-- Git, GitHub, GitLab
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>Version Control</strong><br>
+    Git, GitHub, GitLab
+  </div>
 
-### DevOps
-- Docker, Kubernetes, Jenkins, AWS
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>DevOps</strong><br>
+    Docker, Kubernetes, Jenkins, AWS
+  </div>
 
-### Tools
-- Postman, JIRA, VS Code, IntelliJ IDEA
+  <div style="background-color: #28a745; padding: 10px 20px; border-radius: 8px; margin: 5px;">
+    <strong>Tools</strong><br>
+    Postman, JIRA, VS Code, IntelliJ IDEA
+  </div>
+</div>
 
 ## 🔍 Problem Solving & Algorithms
 <i class="fas fa-brain fa-3x"></i> I love solving problems, whether they are related to coding challenges or system design. Below are some of the areas I focus on:
