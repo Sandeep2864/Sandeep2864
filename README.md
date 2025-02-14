@@ -1,5 +1,6 @@
 Welcome to My GitHub Portfolio! 🎉
 Hello there! 👋
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 I'm a passionate Full Stack Developer with a strong background in AI, Data Structures & Algorithms (DSA), Computer Science, and Java Development. I enjoy building scalable, efficient, and innovative solutions that solve real-world problems. This portfolio showcases some of my best projects and contributions across these fields.
 
